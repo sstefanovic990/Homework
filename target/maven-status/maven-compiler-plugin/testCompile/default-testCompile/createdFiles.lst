@@ -1,0 +1,6 @@
+rs\htec\apps\sandbox_qa\NegativeLoginTest.class
+rs\htec\apps\sandbox_qa\ForgetPsswordPositiveTest.class
+rs\htec\apps\sandbox_qa\ForgotPasswordNegativeTest.class
+rs\htec\apps\sandbox_qa\InvalidLoginTest.class
+rs\htec\apps\sandbox_qa\PositiveLoginTest.class
+rs\htec\apps\sandbox_qa\RemovingTestCases.class
